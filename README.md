@@ -1,7 +1,7 @@
 # The-Gaming-Room
 
 #### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-Our client, The Gaming Room, wants Creative Technology Solutions (CTS) to develop a web-based game for multiple platforms of the their current game, "Draw It Or Lose It," which is currently only available on Android. 
+Our client, The Gaming Room, wanted our company, Creative Technology Solutions (CTS), to develop a web-based game for multiple platforms of the their current game, "Draw It Or Lose It," which is currently only available on Android. The game is similar to the 1980's game show "Win, Lose, or Draw" in which teams guess what image is being drawn. 
 
 #### What did you do particularly well in developing this documentation?
 After reviewing the mistakes I made with the Project One Milestone, I believe I did well on the executive summary, design constraints, and the system architecture view. 
